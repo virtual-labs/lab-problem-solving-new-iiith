@@ -15,70 +15,70 @@
       "name": "Numerical Representation",
       "short-name": "numerical-representation",
       "repo": "https://github.com/virtual-labs/exp-numerical-representation-iiith",
-      "tag": "v1.1.0",
+      "tag": "v1.1.1",
       "deploy": true
     },
     {
       "name": "Beauty of Numbers",
       "short-name": "beauty-of-numbers",
       "repo": "https://github.com/virtual-labs/exp-beauty-of-numbers-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "More on Numbers",
       "short-name": "more-on-numbers",
       "repo": "https://github.com/virtual-labs/exp-more-on-numbers-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Factorials",
       "short-name": "factorials",
       "repo": "https://github.com/virtual-labs/exp-factorials-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "String Operations",
       "short-name": "string-operations",
       "repo": "https://github.com/virtual-labs/exp-string-operations-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Recursion",
       "short-name": "recursion",
       "repo": "https://github.com/virtual-labs/exp-recursion-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Advanced Arithmatic",
       "short-name": "advanced-arithmatic",
       "repo": "https://github.com/virtual-labs/exp-advanced-arithmatic-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Searching and Sorting",
       "short-name": "searching-and-sorting",
       "repo": "https://github.com/virtual-labs/exp-searching-and-sorting-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Permutation",
       "short-name": "permutation",
       "repo": "https://github.com/virtual-labs/exp-permutation-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     },
     {
       "name": "Sequences",
       "short-name": "sequences",
       "repo": "https://github.com/virtual-labs/exp-sequences-iiith",
-      "tag": "v1.0.5",
+      "tag": "v1.0.6",
       "deploy": true
     }
   ],
