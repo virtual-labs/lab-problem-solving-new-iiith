@@ -8,7 +8,7 @@
   "lab_display_name": "Problem Solving Lab",
   "phase": 2,
   "collegeName": "IIITH",
-  "baseUrl": "ps-new-iiith.vlabs.ac.in",
+  "baseUrl": "ps-iiith.vlabs.ac.in",
  "introduction": "Welcome to the Problem Solving Virtual Lab developed at IIIT Hyderabad. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using computer programming as a tool to solve basic to advanced problems.",
   "experiments": [
     {
